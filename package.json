@@ -11,5 +11,9 @@
   "devDependencies": {
     "electron": "^4.1.4",
     "electron-reload": "^1.4.0"
+  },
+  "dependencies": {
+    "jquery": "^3.4.0",
+    "phaser": "^3.16.2"
   }
 }
