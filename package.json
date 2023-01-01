@@ -14,6 +14,6 @@
   },
   "dependencies": {
     "jquery": "^3.5.0",
-    "phaser": "^3.16.2"
+    "phaser": "^3.55.2"
   }
 }
